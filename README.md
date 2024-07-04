@@ -18,3 +18,4 @@ Este curso oferece uma compreensão aprofundada sobre o desenvolvimento Java com
 
 ## ♨️ Repositórios
 [![Trilha](https://img.shields.io/badge/Trilha-Java%20B%C3%A1sico-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/digitalinnovationone/trilha-java-basico/tree/main)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main)
+[![Debugging](https://img.shields.io/badge/Debugging-Java-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/cami-la/debugging-java)](https://github.com/cami-la/debugging-java)
