@@ -2,7 +2,7 @@
 
 Este repositório foi criado para armazenar todos os projetos desenvolvidos durante o curso promovido pela **GFT**, de **Desenvolvimento Java com IA**. Aqui, você encontrará uma coleção de trabalhos, exercícios e exemplos práticos realizados ao longo das aulas.
 
-# Sobre o Curso
+## ♨️ Sobre o Curso
 Este curso oferece uma compreensão aprofundada sobre o desenvolvimento Java com foco em aplicações de Inteligência Artificial. Ministrado pela GFT, o curso abrange uma ampla gama de tópicos essenciais para dominar uma das linguagens mais utilizadas no mercado back-end. Alguns dos tópicos abordados neste bootcamp:
 
 * Java Essencial e Desenvolvimento Colaborativo com Git
@@ -14,3 +14,7 @@ Este curso oferece uma compreensão aprofundada sobre o desenvolvimento Java com
 📤 **Data final:** 19/08/2024
 
 [🔗 **Link para o curso**](https://web.dio.me/track/coding-future-gft-desenvolvimento-java-com-ia)
+ㅤ
+
+## ♨️ Repositórios
+[![Trilha](https://img.shields.io/badge/Trilha-Java%20B%C3%A1sico-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/digitalinnovationone/trilha-java-basico/tree/main)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main)
