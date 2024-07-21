@@ -21,5 +21,5 @@ Este curso oferece uma compreensão aprofundada sobre o desenvolvimento Java com
 [![Debugging](https://img.shields.io/badge/Debugging-Java-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/cami-la/debugging-java)](https://github.com/cami-la/debugging-java)
 [![Collections](https://img.shields.io/badge/Collections-Java-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/cami-la/collections-java-api-2023)](https://github.com/cami-la/collections-java-api-2023)
 [![Collections](https://img.shields.io/badge/Stream-API-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
-
+[![BDRelacional](https://img.shields.io/badge/BD-Relacional-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/pamelaborges/dio-bd-relacional)](https://github.com/pamelaborges/dio-bd-relacional)
 
