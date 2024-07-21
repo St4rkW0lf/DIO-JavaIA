@@ -23,3 +23,7 @@ Este curso oferece uma compreensão aprofundada sobre o desenvolvimento Java com
 [![Collections](https://img.shields.io/badge/Stream-API-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
 [![BDRelacional](https://img.shields.io/badge/BD-Relacional-f89820?labelColor=1FBED6&style=flat&logo=java&logoColor=white&link=https://github.com/pamelaborges/dio-bd-relacional)](https://github.com/pamelaborges/dio-bd-relacional)
 
+## ♨️ Conteúdo Adicional - Slides
+
+[![JavaBasico](https://img.shields.io/badge/Java-Básico-9e0010?labelColor=080640&style=flat&logo=java&logoColor=white&link=https://docs.google.com/presentation/d/1kt8Qcrkcv0S0aph4vNcDHeo8G2ek6uyQ/edit#slide=id.p4)](https://docs.google.com/presentation/d/1kt8Qcrkcv0S0aph4vNcDHeo8G2ek6uyQ/edit#slide=id.p4)
+[![BDRelacional](https://img.shields.io/badge/BD-Relacional-9e0010?labelColor=080640&style=flat&logo=java&logoColor=white&link=https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EUloXsuhqtlFhCo4xMkHQx4BPb7fa9M7rdkLTaBTKEnDsw?rtime=DejkzrWp3Eg)](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EUloXsuhqtlFhCo4xMkHQx4BPb7fa9M7rdkLTaBTKEnDsw?rtime=DejkzrWp3Eg)
